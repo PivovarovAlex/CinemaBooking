@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "customer_name": "John Smith",
+        "date": "2023-05-07",
+        "time": "13:00",
+        "movie_id": 1,
+        "num_seats": 2,
+        "cinema": "Major Theater"
+    },
+    {
+        "id": 2,
+        "customer_name": "Jane Doe",
+        "date": "2023-05-07",
+        "time": "14:00",
+        "movie_id": 2,
+        "num_seats": 1,
+        "cinema": "Small Theater"
+    },
+    {
+        "id": 3,
+        "customer_name": "Bob Johnson",
+        "date": "2023-05-08",
+        "time": "15:00",
+        "movie_id": 3,
+        "num_seats": 3,
+        "cinema": "Major Theater"
+    }
+]

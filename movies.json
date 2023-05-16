@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Avengers: Endgame",
+        "price": 12.99,
+        "release_date": "2019-04-26",
+        "show_times": [
+            "13:00",
+            "16:00",
+            "19:00"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Joker",
+        "price": 9.99,
+        "release_date": "2019-10-04",
+        "show_times": [
+            "14:00",
+            "17:00",
+            "20:00"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Toy Story 4",
+        "price": 7.99,
+        "release_date": "2019-06-21",
+        "show_times": [
+            "11:00",
+            "13:00",
+            "15:00"
+        ]
+    }
+]
